@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Studying Data Analysis and some programming skills
+Interested with Python(Especially for Data Science), Qt, Music, Art, literal things
+Dreaming with my own way
+YOLO
 
-### More Information
+### Welcome to my website
 
-A place to include any other types of information that you'd like to include about yourself.
+Uploading posts about thoughts, special day, experience
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wkreorlvosxja@gmail.com](mailto:wkreorlvosxja@gmail.com)
