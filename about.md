@@ -5,11 +5,8 @@ permalink: /about/
 ---
 
 Studying Data Analysis and some programming skills
-
 Interested with Python(Especially for Data Science), Qt, Music, Art, literal things
-
 Dreaming with my own way
-
 YOLO
 
 ### Welcome to my website
