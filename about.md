@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Studying Data Analysis and some programming skills<br>
+Studying Data Analysis and programming skills<br>
 Interested with Python(Especially for Data Science), Qt, Music, Art, literal things<br>
 Dreaming with my own way<br>
 YOLO
